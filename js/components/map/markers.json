@@ -1,0 +1,52 @@
+[
+  {
+    "LatLng": {
+      "latitude": 48.856914,
+      "longitude": 2.429780
+    },
+    "title": "Distillerie Pernod-Ricard",
+    "description": "Un bruit assourdissant envahissait Montreuil, une odeur forte d’Anis agressait les narines, les alambics fonctionnaient sans relâche jours et nuits. L’usine Pernod-Ricard fonctionnait à plein régime le siècle dernier.",
+    "image":"http://www.montreuil.fr/fileadmin/user_upload/Images/newsletters/montreuil_entreprendre/Usine_Montreuil_-_Vue_g%C3%A9n%C3%A9rale.jpg",
+    "page": "card1"
+  },
+  {
+    "LatLng": {
+      "latitude": 48.862755,
+      "longitude": 2.442841
+    },
+    "title": "Studio Melies",
+    "description": "Montreuil a connu, avec ce studio, la genèse de la grande carrière du réalisateur Méliès mais aussi celle des studios de cinéma français.",
+    "image":"http://dailygeekshow.com/wp-content/uploads/sites/2/2015/11/georges-melies-studio-montreuil.jpg",
+    "page": "card2"
+  },
+  {
+    "LatLng": {
+      "latitude": 48.854611,
+      "longitude": 2.433348
+    },
+    "title": "Studio Pathé",
+    "description": "Découvrez les anciens studios de cinéma Charles Pathé à Montreuil et sa magnifique verrière désormais monument histoirique. De nos jours, le lieu accueille des ateliers d'artistes et des tournages de films",
+    "image":"http://www.tourisme93.com/visites/1041-1847-thickbox_default/les-studios-mythiques-pathe-al.jpg",
+    "page": "card3"
+  },
+  {
+    "LatLng": {
+      "latitude": 48.856789,
+      "longitude": 2.436421
+    },
+    "title": "Tannerie de Chapal",
+    "description": "C'est un endroit étonnant dont la ville de Montreuil a le secret : une ancienne tannerie transformée en atelier d'artistes.",
+    "image":"http://www.montreuil.fr/fileadmin/user_upload/Images/newsletters/montreuil_entreprendre/Chapal_Triage_des_peaux_brutes_1930.jpg",
+    "page": "card4"
+  },
+  {
+    "LatLng": {
+      "latitude": 48.871457,
+      "longitude": 2.467828
+    },
+    "title": "Usine Krema",
+    "description": "Nombreuses étaient les odeurs qui se dégageaient de l’industriel Montreuil du siècle dernier. Parmi elles mais pas des moindres : celle des fameux caramels de l’usine Kréma..",
+    "image":"https://lotodarts.files.wordpress.com/2014/08/kremamolliecc81.jpeg?w=600&h=380",
+    "page": "card5"
+  }
+]
