@@ -1,6 +1,6 @@
 # Reditum
 
-My first react-native app created in 10 days for a school project. It allows you to rediscover the sotry of monuments in your neighbourhood, how time has trasnformed or erased them. In french.
+My first react-native app created in 10 days for a school project. It allows you to rediscover the story of monuments in your neighborhood, how time has transformed or erased them. In french.
 
 Application based on the [NativeBase KichenSink template](https://github.com/GeekyAnts/NativeBase-KitchenSink), using [React Native](https://facebook.github.io/react-native/)
 
@@ -24,9 +24,9 @@ Application based on the [NativeBase KichenSink template](https://github.com/Gee
 On the command prompt run the following commands
 
 ```sh
-$ git clone git@github.com:GeekyAnts/NativeBase-KitchenSink.git
+$ git clone git@github.com:luknl/Reditum.git
 
-$ cd NativeBase-KitchenSink/
+$ cd Reditum/
 
 $ npm install
 ```
@@ -60,7 +60,7 @@ $ react-native link
 $ react-native run-ios
 ```
 
-###4. Simulate for Android
+####4. Simulate for Android
 
 *	Make sure you have an **Android emulator** installed and running.
 
