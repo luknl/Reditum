@@ -21,8 +21,6 @@ Application based on the [NativeBase KichenSink template](https://github.com/Gee
 
 ####2. Installation
 
-On the command prompt run the following commands
-
 ```sh
 $ git clone git@github.com:luknl/Reditum.git
 
@@ -62,7 +60,7 @@ $ react-native run-ios
 
 ####4. Simulate for Android
 
-*	Make sure you have an **Android emulator** installed and running.
+*	Make sure you either have an **Android emulator** installed and running, or a phone connected by USB with debbuging mode activated
 
 *	Run the following command in your terminal
 
